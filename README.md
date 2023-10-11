@@ -115,7 +115,7 @@ module "vpc_dev" {
 
 После импортирования модулей изменений не последовало.
 
-# Листинг кода можно по заданиям 1-3 можно посмотреть по [ссылке](https://github.com/DemoniumBlack/fedorchukds-devops-33-14/tree/main/SRC/1-3).
+# Листинг кода по заданиям 1-3 можно посмотреть по [ссылке](https://github.com/DemoniumBlack/fedorchukds-devops-33-14/tree/main/SRC/1-3).
 
 ### Задание 4*
 
@@ -151,6 +151,8 @@ module "vpc_dev" {
 ![img_16.png](IMG/img_16.png)
 
 ![img_17.png](IMG/img_17.png)
+
+# Листинг кода по заданию 4 можно посмотреть по [ссылке](https://github.com/DemoniumBlack/fedorchukds-devops-33-14/tree/main/SRC/4).
 
 ### Задание 5*
 
