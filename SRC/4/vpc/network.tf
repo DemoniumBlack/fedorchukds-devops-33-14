@@ -8,7 +8,7 @@ terraform {
 }
 
 resource "yandex_vpc_network" "vpc_net" {
-  name = var.vpc_name
+  name = "${var.env_name}-network"
 }
 resource "yandex_vpc_subnet" "vpc_subnet" {
   for_each       = {for i in var.subnets: i.zone => i}
