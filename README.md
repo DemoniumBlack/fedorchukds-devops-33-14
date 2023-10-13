@@ -74,10 +74,6 @@ module "vpc_dev" {
 
 ![img_7.png](IMG/img_7.png)
 
-Вывод ```module.vpc_dev``` не изменился:
-
-![img_8.png](IMG/img_8.png)
-
 6. С помощью terraform-docs сгенерировал файл документации. Смотреть файл DOCS.md.
 
 ![img_15.png](IMG/img_15.png)
