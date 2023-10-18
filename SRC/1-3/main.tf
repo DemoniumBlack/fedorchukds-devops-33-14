@@ -18,7 +18,7 @@ terraform {
     skip_credentials_validation = true
 
         dynamodb_endpoint = "https://docapi.serverless.yandexcloud.net/ru-central1/b1gd46779gqbk6bru6jd/etnomi2pntnk92t6b95q"
-        dynamodb_table    = "tflock-prod"
+        dynamodb_table    = "tfstate-prod"
   }
 }
 provider "yandex" {
